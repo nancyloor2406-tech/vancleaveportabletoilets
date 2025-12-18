@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. How do I calculate porta potty needs for construction in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">1 unit per 10 workers daily; add 20% for high-water sites, we advise free.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. What features make wedding rentals special in #State?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Vanities, lighting, and skirt covers for aesthetics; we match your color scheme.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Portable toilets for parties in #State: kid-friendly options?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Step stools, lower handles, and colorful wraps; serviced mid-party for freshness.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. Luxury toilet rental in #State: power requirements?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Battery backups for lights; generators extra for AC in heat.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Residential rental in #States: grass protection?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Drip pans and mats prevent yellowing; we relocate weekly if needed.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-341-5226">Click Here To Call Us (888) 341-5226</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
